@@ -37,8 +37,8 @@ A complete RESTful API for managing users, projects, and tasks with **role-based
 ###  Clone the Repository
 bash
 git clone https://github.com/Jayeshyadav10/Project_Management_API.git
-cd project-management-api
-dotnet run
+- cd project-management-api
+- dotnet run
 
 ---
 ###  Authorization (JWT)
